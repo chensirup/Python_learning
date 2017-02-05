@@ -1,4 +1,4 @@
 - [ex0_学前准备](ex0_DeadWork.md)
 - 开始练习
-    - [ex01_第一个程序](ex1_HelloWorld.md)
+    - [ex1_第一个程序](ex1_HelloWorld.md)
 - 
