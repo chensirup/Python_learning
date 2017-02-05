@@ -1,5 +1,5 @@
-# This is the first ex.
-**注意Python3版本以上'print'后面要加英文状态下的括号'()'.**
+# This is the first Python Program in my life.
+注意Python3版本以上`print`后面要加英文状态下的括号'()'即：**`print()`**
 
 第一个练习步骤：
 - **01 输入**
@@ -66,8 +66,11 @@ SyntaxError: EOL while scanning string literal
 我们要学会看懂：
 
 >a.我们运行了`ex1.py`脚本程序；
+> 
 > b.Python告诉我们`exq1.py`文件中第6行代码有错误；
+> 
 > c.Python把错误的地方标记出来打上了`^`符号，仔细检查发现，少了一个`"`符号。（不管是单引号还是又引号，包括所有符号，都要使用英文状态下的。）
+> 
 d.Python打印出一个`SyntaxError`告诉我们是代码错误。
 
 - **编码错误**
