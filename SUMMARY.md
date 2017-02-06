@@ -1,4 +1,5 @@
 - [ex0_学前准备](ex0_DeadWork.md)
 - 开始练习
     - [ex1_第一个程序](ex1_HelloWorld.md)
+    - [ex6_字符串(string) 和文本](ex6_String_and_text.md)
 - 
