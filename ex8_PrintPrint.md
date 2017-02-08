@@ -11,7 +11,11 @@ print(formatter%(1,2,3,4))
 print(formatter%("one","two","three","four"))
 print(formatter%(True,False,False,True))
 print(formattre%(formatter,formatter,formatter,formatter))
-print(fomatter%("I had this thing.","That you could type up right.","But it didn't sing.","So I said goodnight."))
+print(fomatter%(
+"I had this thing.",
+"That you could type up right.",
+"But it didn't sing.",
+"So I said goodnight."))
 
 ```
 
