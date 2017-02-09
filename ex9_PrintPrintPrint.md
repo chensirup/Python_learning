@@ -3,7 +3,6 @@
 **This exercise has a new formatter.**
 
 - **Step1 : Write code by ex9**
-
 ```
 # Here's some new strange stuff, remember type it exactly.
 
@@ -53,8 +52,8 @@ with the three double-quotes.
 We'll be able to type as much as we like.
 Even 4 lines if we want, or 5,or 6.
 """)
-
 ```
+Try new code again.
 
 - **Step4 : Run again**
 ```
