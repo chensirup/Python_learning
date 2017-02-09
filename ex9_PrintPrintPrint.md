@@ -3,6 +3,7 @@
 **This exercise has a new formatter.**
 
 - **Step1 : Write code by ex9**
+
 ```
 # Here's some new strange stuff, remember type it exactly.
 
@@ -22,6 +23,7 @@ Even 4 lines if we want, or 5,or 6.
 ```
 
 - **Step2 : Run `ex9.py` code**
+
 ```
 PS F:\mystuff> python ex9.py
   File "ex9.py", line 14
@@ -37,6 +39,7 @@ Oh, my God! It's something wrong.
 The** `print`** code must add** `()`**, it's python 3.5.2 version on my computer.
 
 - **Step3 : Fix code as below**
+
 ```
 # Here's some new strange stuff, remember type it exactly.
 
@@ -56,6 +59,7 @@ Even 4 lines if we want, or 5,or 6.
 Try new code again.
 
 - **Step4 : Run again**
+
 ```
 PS F:\mystuff> python ex9.py
 Here are the days:  Mon Tue Wed Thu Fri Sat Sun
