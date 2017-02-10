@@ -87,6 +87,6 @@ You did it.
 - I must remember I installed python 3.5.2 version no my computer.
 - It must **add `()` behind `print` code**.
 ***
-- Changlog
+- Changelog
 - 2017-02-09 10:42:49 ©陈sir
 
