@@ -9,6 +9,7 @@
 ###  What's the `raw_input` work?
 
 - **Write new code**
+
 ```
 print("How old are you?"),
 age=raw_input()
@@ -20,6 +21,7 @@ weight=raw_input()
 print("So, you're %r old,%r tall and %r heavy."%(age,height,weight))
 ```
 - **Run code**
+
 ```
 PS F:\mystuff> python ex11.py
 How old are you?
