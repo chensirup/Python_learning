@@ -1,9 +1,10 @@
-- [ex0_学前准备](ex0_DeadWork.md)
+- [ex0_学前准备](ex00_DeadWork.md)
 - 开始练习
-    - [ex1_第一个程序](ex1_HelloWorld.md)
-    - [ex6_字符串(string) 和文本](ex6_String_and_text.md)
-    - [ex7_更多打印](ex7_MorePrint.md)
-    - [ex8_打印打印](ex8_PrintPrint.md)
-    - [ex9_打印打印打印](ex9_PrintPrintPrint.md)
+    - [ex1_第一个程序](ex01_HelloWorld.md)
+    - [ex6_字符串(string) 和文本](ex06_String_and_text.md)
+    - [ex7_更多打印](ex07_MorePrint.md)
+    - [ex8_打印打印](ex08_PrintPrint.md)
+    - [ex9_打印打印打印](ex09_PrintPrintPrint.md)
     - [ex10_转义序列](ex10_EscapeSequences.md)
+    - [ex11_输入](ex11_Input.md)
 - 
