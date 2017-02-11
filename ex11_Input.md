@@ -53,10 +53,11 @@ print("So, you're %r old,%r tall and %r heavy."%(age,height,weight))
 ```
 PS F:\mystuff> python ex11.py
 How old are you?
-- 
+
 ```
 
  Tips : We must input **data** by ourselves.
+
 
 - 
     - input data 
