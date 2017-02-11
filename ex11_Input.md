@@ -20,6 +20,7 @@ weight=raw_input()
 
 print("So, you're %r old,%r tall and %r heavy."%(age,height,weight))
 ```
+
 - **Run code**
 
 ```
@@ -46,18 +47,22 @@ weight=input()
 print("So, you're %r old,%r tall and %r heavy."%(age,height,weight))
 
 ```
+
 - **Run again**
+
 ```
 PS F:\mystuff> python ex11.py
 How old are you?
 - 
 ```
+
  Tips : We must input **data** by ourselves.
 
 - 
     - input data 
     - Then enter one by one until the last line.
 Last result is following :
+
 ```
 PS F:\mystuff> python ex11.py
 How old are you?
@@ -68,6 +73,7 @@ How much do you weight?
 264
 So, you're '30' old,'65' tall and '264' heavy.
 ```
+
 Congratulations, I did it.
 ***
 ### **Thinking :**
