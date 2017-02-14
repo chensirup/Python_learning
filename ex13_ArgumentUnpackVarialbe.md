@@ -80,8 +80,9 @@ ValueError: not enough values to unpack (expected 4, got 2)
 
 The error prompt us the unpack included 4 values at least, it has 2 values.
 
-- 
+- If we write more or less `argv` it'll some error like:
    - more `argv`
+
 ```
 PS F:\mystuff> python ex13.py chensir is kind man
 Traceback (most recent call last):
