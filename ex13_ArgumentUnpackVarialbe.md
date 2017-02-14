@@ -1,6 +1,6 @@
 # Write new code import script
 
-### **ex13 include `argument`、`variable`、`unpack`.**
+### **Ex13 include `argument`、`variable`、`unpack`.**
 
 - **we write a new script include `argv` is following**
 
