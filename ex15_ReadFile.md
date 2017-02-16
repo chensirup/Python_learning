@@ -10,6 +10,7 @@ Lots and lots of fun to have in here.
 ```
 
 - **02 Write `ex15.py`:**
+
 ```
 from sys import argv
 
@@ -26,7 +27,6 @@ file_again=input(">")
 txt_again=open(file_again)
 
 print(txt_again.read())
-
 ```
 
 - **03 The last result:**
