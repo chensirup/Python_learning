@@ -10,7 +10,6 @@ Lots and lots of fun to have in here.
 ```
 
 - **02 Write `ex15.py`:**
-
 ```
 from sys import argv
 
@@ -29,8 +28,9 @@ txt_again=open(file_again)
 print(txt_again.read())
 ```
 
-- **03 The last result:**
+Run
 
+- **03 The last result:**
 ```
 PS F:\mystuff> python ex15.py ex15_sample.txt
 Here's your file 'ex15_sample.txt':
