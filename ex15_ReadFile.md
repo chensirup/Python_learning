@@ -58,6 +58,7 @@ SyntaxError: Non-UTF-8 code starting with '\xa3' in file ex15.py on line 15, but
 The `ex15.py` writed by **Notepad++**, must add `# -- coding: utf-8 --` on the first line.
 
 - **02 SyntaxError:**
+
 ```
 PS F:\mystuff> python ex15.py ex15_sample.txt
   File "ex15.py", line 16
@@ -69,6 +70,7 @@ SyntaxError: invalid character in identifier
 It's the wrong code `（` by Chinese-characterizing，the right code is English-characterizing by `(`.
 
 - **03 FileNotFoundError:**
+
 ```
 PS F:\mystuff> python ex15.py ex15_samlpe.txt
 Traceback (most recent call last):
