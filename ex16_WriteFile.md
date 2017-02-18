@@ -83,6 +83,7 @@ print("I want to read %r."%filename)
 print(txt.read())
 ```
 
+- 
     - `ex16_2.py`
 
 ```
@@ -110,6 +111,7 @@ I say I don't like my hair.
 I need to shave it off.
 ```
 
+- 
     - `ex16_2.py test.txt`
 
 ```
