@@ -11,5 +11,7 @@
     - [ex13_参数、解包、变量](ex13_ArgumentUnpackVarialbe.md)
     - [ex14_提示和传递](ex14_PromptTransmit.md)
     - [ex15_读取文件](ex15_ReadFile.md)
+    - [ex16_读写文件](ex16_WriteFile.md)
+    - [ex17_更多文件](ex17_Exists.md)
     - 
 - 
