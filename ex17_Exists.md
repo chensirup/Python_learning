@@ -3,6 +3,7 @@
 ### New `import` code `exists`
 
  - Write `ex17.py`
+
 ```
 from sys import argv
 from os.path import exists
@@ -32,6 +33,7 @@ input.close()
 ```
 
 - Runing `python ex17.py test.txt copied.txt`
+
 ```
 PS F:\mystuff> python ex17.py test.txt copied.txt
 Copying from test.txt to copied.txt
@@ -47,6 +49,7 @@ TypeError: '_io.TextIOWrapper' object is not callable
 I has no idea for the **TpyeError**.
 
 **I try deleted `input()` on line 17**, then run again, the amazing result has been:
+
 ```
 PS F:\mystuff> python ex17.py test.txt copied.txt
 Copying from test.txt to copied.txt

@@ -11,6 +11,7 @@ If I dit ex15's bonus exercise, I must kown command following:
 ### We exercise `write` command .
 
 - write new code in `ex16.py`
+
 ```
 from sys import argv
 
@@ -48,6 +49,7 @@ target.close()
 ```
 
 - Runing `python ex16.py test.txt`
+
 ```
 PS F:\mystuff> python ex16.py test.txt
 We're going to erase 'test.txt'.
@@ -69,6 +71,7 @@ And finally, we close it.
 
 - wirte the `read` command by `ex16_1.py` or `ex16_2.py`
     - `ex16_1.py`
+
 ```
 from sys import argv
 
@@ -81,6 +84,7 @@ print(txt.read())
 ```
 
     - `ex16_2.py`
+
 ```
 from sys import argv
 
@@ -97,6 +101,7 @@ print(txt.read())
 
 - Runing `ex16_1.py test.txt` and `ex16_2.py test.txt`
     - `ex16_1.py test.txt`
+
 ```
 PS F:\mystuff> python ex16_1.py test.txt
 I want to read 'test.txt'.
@@ -106,6 +111,7 @@ I need to shave it off.
 ```
 
     - `ex16_2.py test.txt`
+
 ```
 PS F:\mystuff> python ex16_2.py test.txt
 >test.txt
