@@ -114,6 +114,11 @@ To all people out there.
 I say I don't like my hair.
 I need to shave it off.
 ```
+
+- line 25-30 can write one line together like following
+
+`target.write(line 1+'\n' + line 2+'\n' +line 3 +'n\')`
+
 ***
 - Changelog
 - 2017-02-18 22:23:38 ©陈sir
