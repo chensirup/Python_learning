@@ -29,6 +29,7 @@ So, you're '30' old, '65' tall and '264' heavy.
     - Try the code `'` and `\n` are not work.
 
 - Try run `python -m pydoc input`,the result is following
+
 ```
 PS F:\mystuff> python -m pydoc input
 Help on built-in function input in module builtins:
@@ -42,6 +43,7 @@ input(prompt=None, /)
     If the user hits EOF (*nix: Ctrl-D, Windows: Ctrl-Z+Return), raise EOFError.
     On *nix systems, readline is used if available.
 ```
+
 I don't understand it.
 
 ***
