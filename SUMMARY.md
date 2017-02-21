@@ -13,5 +13,6 @@
     - [ex15_读取文件](ex15_ReadFile.md)
     - [ex16_读写文件](ex16_WriteFile.md)
     - [ex17_更多文件](ex17_Exists.md)
+    - [ex18_函数、命名、代码、变量](ex18_Function.md)
     - 
 - 
