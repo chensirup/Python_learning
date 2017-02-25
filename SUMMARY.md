@@ -14,5 +14,8 @@
     - [ex16_读写文件](ex16_WriteFile.md)
     - [ex17_更多文件](ex17_Exists.md)
     - [ex18_函数、命名、代码、变量](ex18_Function.md)
+    - [ex19_函数和变量](ex19_FunctionAndVariables.md)
+    - [ex20_函数和文件](ex20_FunctionAndFiles.md)
+    - [ex21_函数可返回的值](ex21_FunctionReturn.md)
     - 
 - 
